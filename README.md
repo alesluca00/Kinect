@@ -63,7 +63,7 @@ Kinect SDK:
 
 # Demo
 
-![image](https://github.com/alesluca00/Kinect/blob/main/img/skeleton_tracking_demo.gif?raw=true)
+![image](img/skeleton_tracking_demo.gif)
 
 </br>
 
